@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.contenedor {
+    background-color: grey;
+    width: 400px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+input {
+    width: 200px;
+    border-radius: 5px;
+}
+
+select {
+    width: 200px;
+    border-radius: 5px;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+
+}
